@@ -10,14 +10,14 @@ Sistemlerin nasıl çalıştığını ve nerede kırıldığını anlamaya odakl
 
 ### 🛡️ Learning Path & Research Areas
 
-* 🎯 **Offensive Security (In Progress):** Network Penetration Testing temelleri, OWASP standartları ve Privilege Escalation teknikleri üzerine aktif çalışma.
-* 🔍 **OSINT & Reconnaissance:** Kurumsal keşif (Recon), açık kaynak istihbaratı ve veri toplama otomasyonları üzerinde araştırma ve uygulama.
-* 📶 **Hardware & IoT Security:** ESP32 ve M5Stack gibi mikrokontrolcüler üzerinde RF analizleri ve firmware analiz süreçleri üzerine pratik deneyim.
-* ⚙️ **SecOps & Automation:** Güvenlik süreçlerini otomatize eden araçlar ve Rust tabanlı yüksek performanslı sistemler geliştirme odağı.
+*  **Offensive Security (In Progress):** Network Penetration Testing temelleri, OWASP standartları ve Privilege Escalation teknikleri üzerine aktif çalışma.
+*  **OSINT & Reconnaissance:** Kurumsal keşif (Recon), açık kaynak istihbaratı ve veri toplama otomasyonları üzerinde araştırma ve uygulama.
+*  **Hardware & IoT Security:** ESP32 ve M5Stack gibi mikrokontrolcüler üzerinde RF analizleri ve firmware analiz süreçleri üzerine pratik deneyim.
+*  **SecOps & Automation:** Güvenlik süreçlerini otomatize eden araçlar ve Rust tabanlı yüksek performanslı sistemler geliştirme odağı.
 
 ---
 
-### 🚀 Technical Arsenal (Expanding)
+### Technical Arsenal (Expanding)
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark" />
@@ -32,24 +32,14 @@ Sistemlerin nasıl çalıştığını ve nerede kırıldığını anlamaya odakl
 
 ---
 
-### 🏭 Active Projects & R&D
+### Active Projects & R&D
 
-* ⚔️ **ISU-SecOps-Engine**
+ **ISU-SecOps-Engine**
     * Yapay zeka desteğiyle kurgulanmış, Rust tabanlı yüksek performanslı ağ ve dizin keşif aracı (Geliştirilme aşamasında).
-* 🛰️ **ShadowNet (World Monitor)**
+ **ShadowNet (World Monitor)**
     * API entegrasyonları ile telemetri verilerini işleyen 3D gerçek zamanlı görselleştirme çalışması (Geliştirilme aşamasında).
-* 🕹️ **Tactical Micro-Hardware Frameworks**
+ **Tactical Micro-Hardware Frameworks**
     * M5Stack ve ESP32 üzerinde sinyal analizleri ve özel firmware denemeleri için geliştirilen test yazılımları (Geliştirilme aşamasında).
-
----
-
-### 📊 GitHub Activity Wave
-
-![Activity Wave](https://github-readme-activity-graph.vercel.app/graph?username=redriverr&theme=transparent&hide_border=true&color=ffffff)
-
-### 📈 Contribution Snake
-
-![Snake animation](https://github.com/redriverr/redriverr/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
