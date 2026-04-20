@@ -1,7 +1,7 @@
 # Mert Kızılırmak
 
 <p align="left">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast;Vibe+Coder](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast;Vibe+Coder)" alt="Typing SVG" />
+  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast;Vibe+Coder]" alt="Typing SVG" />
 </p>
 
 ---
@@ -9,7 +9,7 @@
 ### 🚀 Tech Stack
 
 <p align="left">
-  <img src="[https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark](https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark)" />
+  <img src="[https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark]" />
 </p>
 
 ---
