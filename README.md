@@ -1,49 +1,33 @@
 # Mert Kızılırmak
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Student;Vibe+Coder;Hardware+%26+Security+Researcher;Rust+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast;Vibe+Coder" alt="Typing SVG" />
 </p>
 
-Sistemlerin nasıl çalıştığını ve nerede kırıldığını anlamaya odaklanmış bir Bilişim Güvenliği Teknolojisi öğrencisiyim. Geleneksel kodlamanın ötesinde, yapay zeka (vibe coding) destekli sistem mimarileri kurguluyor; OSINT, ofansif güvenlik ve gömülü sistemler üzerinde kendimi geliştirmeye devam ediyorum.
-
 ---
 
-### 🛡️ Learning Path & Research Areas
-
-*  **Offensive Security (In Progress):** Network Penetration Testing temelleri, OWASP standartları ve Privilege Escalation teknikleri üzerine aktif çalışma.
-*  **OSINT & Reconnaissance:** Kurumsal keşif (Recon), açık kaynak istihbaratı ve veri toplama otomasyonları üzerinde araştırma ve uygulama.
-*  **Hardware & IoT Security:** ESP32 ve M5Stack gibi mikrokontrolcüler üzerinde RF analizleri ve firmware analiz süreçleri üzerine pratik deneyim.
-*  **SecOps & Automation:** Güvenlik süreçlerini otomatize eden araçlar ve Rust tabanlı yüksek performanslı sistemler geliştirme odağı.
-
----
-
-### Technical Arsenal (Expanding)
+### 🚀 Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark" />
 </p>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Languages** | Python, **Rust (Focus)**, Go, Bash, C/C++ |
-| **Micro-Hardware** | ESP32, M5Stack, STM32 (Basic) |
-| **Tooling** | Burp Suite, Nmap, Wireshark, Metasploit, Shodan |
-| **Infrastructure** | Linux System Administration, Docker, Git Workflow (**GPG Signed**) |
-
 ---
 
-### Active Projects & R&D
+### 🔗 Connectivity
 
- **ISU-SecOps-Engine**
-    * Yapay zeka desteğiyle kurgulanmış, Rust tabanlı yüksek performanslı ağ ve dizin keşif aracı (Geliştirilme aşamasında).
- **ShadowNet (World Monitor)**
-    * API entegrasyonları ile telemetri verilerini işleyen 3D gerçek zamanlı görselleştirme çalışması (Geliştirilme aşamasında).
- **Tactical Micro-Hardware Frameworks**
-    * M5Stack ve ESP32 üzerinde sinyal analizleri ve özel firmware denemeleri için geliştirilen test yazılımları (Geliştirilme aşamasında).
+<p align="left">
+<a href="https://keybase.io/redriverr" target="blank"><img align="center" src="https://img.shields.io/badge/Keybase-3399FF?style=for-the-badge&logo=keybase&logoColor=white" alt="redriverr" /></a>
+<a href="https://www.linkedin.com/in/mert-kızılırmak-5aa76b227/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B2?style=for-the-badge&logo=linkedin&logoColor=white" alt="mertkizilirmak" /></a>
+<a href="mailto:mertkzlrmk@yandex.ru" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yandex&logoColor=white" alt="mertkzlrmk" /></a>
+</p>
 
----
+```text
+PGP Fingerprint: 77B2 6137 72B5 2EDD CDAB 96A9 CC7A 650E 7F14 D8D9
+<p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dredriverr%26layout%3Dcompact%26theme%3Dtransparent%26hide_border%3Dtrue%26title_color%3Dffffff%26text_color%3Daaaaaa" alt="Top Langs" />
+</p>
 
-**Contact:** [Email](mailto:mertkzlrmk@yandex.ru) | [Keybase](https://keybase.io/redriverr)
-**PGP Fingerprint:** `77B2 6137 72B5 2EDD CDAB 96A9 CC7A 650E 7F14 D8D9`
-
-> **Note:** Continuous learning is a mindset. If you find a security flaw in any of my projects, please report it via my PGP key.
+<p align="center">
+<i>Everything is a target.</i>
+</p>
