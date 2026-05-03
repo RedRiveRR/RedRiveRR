@@ -25,12 +25,4 @@
 
 **PGP Fingerprint:** `77B2 6137 72B5 2EDD CDAB 96A9 CC7A 650E 7F14 D8D9`
 
----
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redriverr&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=aaaaaa" />
-</p>
-
-<p align="center">
-  <i>Everything is a target.</i>
-</p>
