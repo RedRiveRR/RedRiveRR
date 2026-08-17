@@ -1,12 +1,12 @@
 # RedRiveRR
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast;Vibe+Coder" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast" />
 </p>
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark" />
@@ -14,7 +14,7 @@
 
 ---
 
-### 🔗 Connectivity
+### Connectivity
 
 <p align="left">
 <a href="https://redriverlab.me"><img src="https://img.shields.io/badge/Website-282C34?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
