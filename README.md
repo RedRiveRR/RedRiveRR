@@ -2,7 +2,7 @@
 
 # RedRiveRR
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Security+Researcher;Hardware+Enthusiast;Building+%40+RedRiverLab" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Security+Researcher;Hardware+Enthusiast;Building+%40+RedRiverLab" />
 
 </div>
 
@@ -28,11 +28,11 @@
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=redriverr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redriverr&theme=dark&hide_border=true&background=0D1117" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=redriverr&theme=dark&hide_border=true&background=0D1117" height="165" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-trophies.vercel.app/?username=redriverr&theme=darkhub&no-frame=true&margin-w=10&row=1" />
+  <img src="https://github-readme-trophies.vercel.app/?username=redriverr&theme=dark&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
