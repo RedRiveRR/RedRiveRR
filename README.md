@@ -24,19 +24,6 @@
 
 ---
 
-### GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=redriverr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="165" />
-  <img src="https://streak-stats.demolab.com/?user=redriverr&theme=dark&hide_border=true&background=0D1117" height="165" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-trophies.vercel.app/?username=redriverr&theme=dark&no-frame=true&margin-w=10&row=1" />
-</p>
-
----
-
 ### Connectivity
 
 <p align="left">
