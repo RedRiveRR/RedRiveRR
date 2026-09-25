@@ -1,8 +1,18 @@
+<div align="center">
+
 # RedRiveRR
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Security+Researcher;Hardware+Enthusiast" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&width=435&lines=Security+Researcher;Hardware+Enthusiast;Building+%40+RedRiverLab" />
+
+</div>
+
+---
+
+### About
+
+- Focused on offensive security, hardware hacking and low-level systems
+- Building tools and research over at RedRiverLab
+- Tinkering with something between silicon and shell
 
 ---
 
@@ -10,6 +20,19 @@
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,rust,cpp,go,bash,linux,docker,git,arduino,powershell&theme=dark" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=redriverr&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redriverr&theme=dark&hide_border=true&background=0D1117" height="165" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-trophies.vercel.app/?username=redriverr&theme=darkhub&no-frame=true&margin-w=10&row=1" />
 </p>
 
 ---
@@ -23,6 +46,10 @@
 <a href="mailto:mertkzlrmk@yandex.ru"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=yandex&logoColor=white" /></a>
 </p>
 
-**PGP Fingerprint:** `77B2 6137 72B5 2EDD CDAB 96A9 CC7A 650E 7F14 D8D9`
+---
 
+### PGP Fingerprint
 
+`77B2 6137 72B5 2EDD CDAB 96A9 CC7A 650E 7F14 D8D9`
+
+</div>
